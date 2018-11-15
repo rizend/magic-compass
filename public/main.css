@@ -1,0 +1,11 @@
+body,html,p {
+    background: black;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+p {
+    color: white;
+    font-size: calc(20vh);
+    margin-top: calc(38vh) !important;
+}
